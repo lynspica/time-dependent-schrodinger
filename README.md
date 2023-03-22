@@ -11,4 +11,4 @@ The animation below shows the tunneling phenomena in 1D, where the particle is c
 
 The animation below shows the single and double slit experiments, where the particle is confined within 2D infinite potential well while finite potential barriers creating the slit geometries (width = 0.5, slit size = 1, at $x = 1$, V(x,y) = 100) are introduced.
 
-![](https://github.com/lynspica/time-dependent-schrodinger/blob/main/figs/2D_slit.gif)
+![](https://github.com/lynspica/time-dependent-schrodinger/blob/main/figs/2D_slits.gif)
